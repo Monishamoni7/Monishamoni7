@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Monishamoni7
-- 👀 I’m interested in AI & ML
+- 👀 I’m interested in AI & ML, Data analyst
 - 🌱 I’m currently learning Pandas
 - 💞️ I’m looking to collaborate on those who expert in Machine Learning
 - 📫 How to reach me https://github.com/Monishamoni7 
